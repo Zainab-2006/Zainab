@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Zainab ✨
+# Zainab ✨
 
 ### Building full-stack things that actually work ⚙️ | Java backend energy ☕ | From UML → deployed apps 📐
 
